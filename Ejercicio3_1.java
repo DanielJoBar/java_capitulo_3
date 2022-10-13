@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Ejercicio3_1{
-    public static  void main(System[] args){
+    public static  void main(String[] args){
     Scanner sc = new Scanner(System.in);
     System.out.println("Escriba dos números que desea multiplicar:  ");
     float n1 = sc.nextFloat();
